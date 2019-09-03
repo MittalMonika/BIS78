@@ -1,0 +1,26 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonIdHelpers/CMakeFiles/MuonIdHelpersDictReflexDict.cxx",
+			"labels" : 
+			[
+				"MuonIdHelpers"
+			]
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MuonIdHelpersDict.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/selection.xml"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonIdHelpers"
+		],
+		"name" : "MuonIdHelpersDict"
+	}
+}

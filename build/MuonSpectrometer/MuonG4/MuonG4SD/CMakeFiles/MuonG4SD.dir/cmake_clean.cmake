@@ -1,0 +1,40 @@
+file(REMOVE_RECURSE
+  "../../../x86_64-centos7-gcc62-opt/python/MuonG4SD/__init__.py"
+  "../../../x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfig.py"
+  "../../../x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfigDb.py"
+  "../../../x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfig.pyc"
+  "CMakeFiles/MuonG4SDConfigpycGen.py"
+  "../../../x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfigDb.pyc"
+  "CMakeFiles/MuonG4SDConfigDbpycGen.py"
+  "CMakeFiles/MuonG4SD.dir/src/CSCSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/CSCSensitiveDetectorCosmics.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/CSCSensitiveDetectorCosmicsTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/CSCSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/GenericMuonSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/GenericMuonSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/MDTSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/MDTSensitiveDetectorCosmics.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/MDTSensitiveDetectorCosmicsTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/MDTSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/MicromegasSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/MicromegasSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/RPCSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/RPCSensitiveDetectorCosmics.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/RPCSensitiveDetectorCosmicsTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/RPCSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/TGCSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/TGCSensitiveDetectorCosmics.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/TGCSensitiveDetectorCosmicsTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/TGCSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/sTGCSensitiveDetector.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/sTGCSensitiveDetectorTool.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/components/MuonG4SD_entries.cxx.o"
+  "CMakeFiles/MuonG4SD.dir/src/components/MuonG4SD_load.cxx.o"
+  "../../../x86_64-centos7-gcc62-opt/lib/libMuonG4SD.pdb"
+  "../../../x86_64-centos7-gcc62-opt/lib/libMuonG4SD.so"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang CXX)
+  include(CMakeFiles/MuonG4SD.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

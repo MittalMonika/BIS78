@@ -1,0 +1,7 @@
+# Target labels
+ IdDictParser
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/DetectorDescription/IdDictParser/CMakeFiles/IdDictParserDictReflexDict.cxx
+ IdDictParser
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/IdDictParser/IdDictParserDict.h
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/IdDictParser/selection.xml

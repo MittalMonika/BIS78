@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!-- Edited By POOL -->
+<!DOCTYPE POOLFILECATALOG SYSTEM "InMemory">
+<POOLFILECATALOG>
+  <File ID="41172192-500A-CF43-A9D6-93FE09A00CD6">
+    <physical>
+      <pfn filetype="ROOT_All" name="OUT.HITS.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+  <File ID="ACBF0E1A-56AA-094D-B465-989DE6FC9E1F">
+    <physical>
+      <pfn filetype="ROOT_All" name="OUT.RDO.pool.root"/>
+    </physical>
+    <logical/>
+  </File>
+
+</POOLFILECATALOG>

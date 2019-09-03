@@ -1,0 +1,481 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDict.dtd"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/ATLAS_IDS.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictATLAS.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_DC3-05.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_H8.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_L1Onl.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_L1P0.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_Rel11.5.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictForwardDetectors.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictForwardDetectors_2010.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_CTB2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_Cosmic.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_CosmicEndcap.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_slhc.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_DC3-05-Comm-01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_DC3-05.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_H6_2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_H8_2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_HGTD_01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_sLHC-LArMiniFcal-00.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_sLHC-MiniFcal-00.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_sLHC-sFCal-00.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArElectrode.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArHighVoltage.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArHighVoltage_v0.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_CSC_Cosmic.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_H8_2002.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_H8_2003.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_H8_2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_M2.8.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_P.03.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_Q.02.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.02.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.03.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.04.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.05.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.09.AsymNSW.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.09.NSW.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_S.01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_S.02.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter-upgradeA.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter-upgradeABC.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter-upgradeBC.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter_3B.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter_EB2B.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter_TB04.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDict.dtd"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/ATLAS_IDS.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictATLAS.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictCalorimeter.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictCalorimeter_DC3-05.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictCalorimeter_H8.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictCalorimeter_L1Onl.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictCalorimeter_L1P0.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictCalorimeter_Rel11.5.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictForwardDetectors.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictForwardDetectors_2010.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictInnerDetector.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictInnerDetector_CTB2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictInnerDetector_Cosmic.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictInnerDetector_CosmicEndcap.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictInnerDetector_slhc.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_DC3-05-Comm-01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_DC3-05.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_H6_2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_H8_2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_HGTD_01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_sLHC-LArMiniFcal-00.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_sLHC-MiniFcal-00.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArCalorimeter_sLHC-sFCal-00.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArElectrode.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArHighVoltage.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictLArHighVoltage_v0.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_CSC_Cosmic.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_H8_2002.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_H8_2003.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_H8_2004.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_M2.8.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_P.03.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_Q.02.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.02.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.03.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.04.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.05.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.09.AsymNSW.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_R.09.NSW.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_S.01.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictMuonSpectrometer_S.02.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter-upgradeA.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter-upgradeABC.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter-upgradeBC.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter_3B.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter_EB2B.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/data/IdDictTileCalorimeter_TB04.xml"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDict.dtd.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/ATLAS_IDS.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictATLAS.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_DC3-05.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_H8.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_L1Onl.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_L1P0.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictCalorimeter_Rel11.5.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictForwardDetectors.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictForwardDetectors_2010.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_CTB2004.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_Cosmic.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_CosmicEndcap.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictInnerDetector_slhc.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_DC3-05-Comm-01.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_DC3-05.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_H6_2004.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_H8_2004.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_HGTD_01.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_sLHC-LArMiniFcal-00.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_sLHC-MiniFcal-00.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArCalorimeter_sLHC-sFCal-00.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArElectrode.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArHighVoltage.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictLArHighVoltage_v0.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_CSC_Cosmic.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_H8_2002.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_H8_2003.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_H8_2004.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_M2.8.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_P.03.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_Q.02.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.01.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.02.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.03.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.04.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.05.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.09.AsymNSW.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_R.09.NSW.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_S.01.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictMuonSpectrometer_S.02.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter-upgradeA.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter-upgradeABC.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter-upgradeBC.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter_3B.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter_EB2B.xml.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/XML/IdDictParser/IdDictTileCalorimeter_TB04.xml.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"IdDictParser"
+		],
+		"name" : "IdDictParserXmlInstall"
+	}
+}

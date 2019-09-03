@@ -1,0 +1,4 @@
+# Target labels
+ IdDictParser
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/test/test_indet_id.cxx

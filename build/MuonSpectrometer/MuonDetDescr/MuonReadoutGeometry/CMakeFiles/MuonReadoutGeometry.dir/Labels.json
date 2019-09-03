@@ -1,0 +1,70 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/CscDetectorElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/CscReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/GlobalUtilities.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MMReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MdtDetectorElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MdtReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MuonClusterReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MuonDetectorElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MuonDetectorManager.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MuonPadDesign.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MuonReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/MuonStation.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/RpcDetectorElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/RpcReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/RpcReadoutSet.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/TgcDetectorElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/TgcReadoutElement.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/TgcReadoutParams.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry/src/sTgcReadoutElement.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonReadoutGeometry"
+		],
+		"name" : "MuonReadoutGeometry"
+	}
+}

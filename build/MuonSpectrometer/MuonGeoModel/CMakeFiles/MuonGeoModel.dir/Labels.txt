@@ -1,0 +1,5 @@
+# Target labels
+ MuonGeoModel
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonGeoModel/src/components/MuonGeoModel_entries.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonGeoModel/src/components/MuonGeoModel_load.cxx

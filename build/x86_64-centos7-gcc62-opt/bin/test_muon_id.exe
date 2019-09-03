@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+echo "WARNING Please stop using test_muon_id.exe, and use test_muon_id instead"
+echo ""
+exec test_muon_id "$@"

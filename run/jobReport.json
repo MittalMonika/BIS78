@@ -1,0 +1,175 @@
+{
+  "cmdLine": "'/cvmfs/atlas.cern.ch/repo/sw/software/21.3/Athena/21.3.5/InstallArea/x86_64-slc6-gcc62-opt/share/Digi_tf.py' '--DataRunNumber=284500' '--conditionsTag=OFLCOND-MC16-SDR-20' '--digiSeedOffset1=1234' '--digiSeedOffset2=5678' '--maxEvents=-1' '--outputRDOFile=OUT.RDO.pool.root' '--inputHitsFile=OUT.HITS.pool.root' '--geometryVersion=default:ATLAS-R2-2016-01-00-01_VALIDATION' '--ignoreErrors=True' '--preExec=from AthenaCommon.DetFlags import DetFlags;DetFlags.ID_setOff();DetFlags.Calo_setOff();DetFlags.Muon_setOn();DetFlags.MDT_setOff();DetFlags.CSC_setOff();DetFlags.TGC_setOff();DetFlags.RPC_setOn();DetFlags.digitize.MDT_setOff();DetFlags.digitize.TGC_setOff();DetFlags.digitize.RPC_setOn();DetFlags.digitize.CSC_setOff();DetFlags.Truth_setOn()' '--postInclude=NtupleFragmentTestCabOnly.py'", 
+  "created": "2019-08-29T16:39:39", 
+  "executor": [
+    {
+      "asetup": null, 
+      "errMsg": "", 
+      "exeConfig": {
+        "inputs": [
+          "HITS"
+        ], 
+        "outputs": [
+          "RDO"
+        ], 
+        "script": "athena.py", 
+        "substep": "h2r"
+      }, 
+      "logfileReport": {
+        "countSummary": {
+          "CATASTROPHE": 0, 
+          "CRITICAL": 0, 
+          "DEBUG": 0, 
+          "ERROR": 900, 
+          "FATAL": 0, 
+          "IGNORED": 0, 
+          "INFO": 3771, 
+          "UNKNOWN": 194365, 
+          "VERBOSE": 0, 
+          "WARNING": 17664
+        }, 
+        "details": {
+          "ERROR": [
+            {
+              "count": 10, 
+              "firstLine": 98499, 
+              "message": "ToolSvc.RpcDigitizationTool                         ERROR Index out of array in ClusterSizeEvaluation SideA 4294967295 statName 1"
+            }
+          ]
+        }
+      }, 
+      "metaData": {
+        "[IOVDbGlobalTag": "OFLCOND-MC16-SDR-20]"
+      }, 
+      "name": "HITtoRDO", 
+      "rc": 0, 
+      "statusOK": true, 
+      "validation": true
+    }
+  ], 
+  "exitAcronym": "OK", 
+  "exitCode": 0, 
+  "exitMsg": "OK", 
+  "exitMsgExtra": "", 
+  "files": {
+    "input": [
+      {
+        "dataset": null, 
+        "nentries": 1000, 
+        "subFiles": [
+          {
+            "file_guid": "41172192-500A-CF43-A9D6-93FE09A00CD6", 
+            "name": "OUT.HITS.pool.root"
+          }
+        ], 
+        "type": "HITS"
+      }
+    ], 
+    "output": [
+      {
+        "argName": "outputRDOFile", 
+        "dataset": null, 
+        "subFiles": [
+          {
+            "file_guid": "ACBF0E1A-56AA-094D-B465-989DE6FC9E1F", 
+            "file_size": 1871075, 
+            "name": "OUT.RDO.pool.root", 
+            "nentries": 1000
+          }
+        ], 
+        "type": "RDO"
+      }
+    ]
+  }, 
+  "name": "Digi_tf", 
+  "reportVersion": "2.0.9", 
+  "resource": {
+    "dbDataTotal": 13624764, 
+    "dbTimeTotal": 1.57, 
+    "executor": {
+      "HITtoRDO": {
+        "cpuTime": 50.05, 
+        "dbData": 13624764, 
+        "dbTime": 1.57, 
+        "memory": {
+          "Avg": {
+            "avgPSS": 420425, 
+            "avgRSS": 424666, 
+            "avgSwap": 0, 
+            "avgVMEM": 796151, 
+            "rateRBYTES": 5432330, 
+            "rateRCHAR": 444857, 
+            "rateWBYTES": 689, 
+            "rateWCHAR": 681616
+          }, 
+          "Max": {
+            "maxPSS": 751878, 
+            "maxRSS": 756760, 
+            "maxSwap": 0, 
+            "maxVMEM": 1281416, 
+            "totRBYTES": 516071424, 
+            "totRCHAR": 42261494, 
+            "totWBYTES": 65536, 
+            "totWCHAR": 64753545
+          }
+        }, 
+        "nevents": 1000, 
+        "postExe": {
+          "cpuTime": 0.34, 
+          "wallTime": 1.22
+        }, 
+        "preExe": {
+          "cpuTime": 0.64, 
+          "wallTime": 1.66
+        }, 
+        "total": {
+          "cpuTime": 51.03, 
+          "wallTime": 101.83
+        }, 
+        "validation": {
+          "cpuTime": 0.0, 
+          "wallTime": 2.83
+        }, 
+        "wallTime": 96.12
+      }
+    }, 
+    "machine": {
+      "cpu_family": "6", 
+      "linux_distribution": [
+        "CentOS Linux", 
+        "7.6.1810", 
+        "Core"
+      ], 
+      "model": "61", 
+      "model_name": "Intel Core Processor (Broadwell, IBRS)", 
+      "node": "lxplus754.cern.ch", 
+      "platform": "Linux-3.10.0-957.21.3.el7.x86_64-x86_64-with-centos-7.6.1810-Core"
+    }, 
+    "transform": {
+      "cpuEfficiency": 0.6779, 
+      "cpuPWEfficiency": 0.6779, 
+      "cpuTime": 25.49, 
+      "cpuTimeTotal": 51.03, 
+      "externalCpuTime": 1.28, 
+      "inFileValidation": {
+        "cpuTime": 0.25, 
+        "wallTime": 5.99
+      }, 
+      "outFileValidation": {
+        "cpuTime": 0.0, 
+        "wallTime": 0.43
+      }, 
+      "processedEvents": 1000, 
+      "reportGeneration": {
+        "cpuTime": 0.05, 
+        "wallTime": 3.18
+      }, 
+      "transformSetup": {
+        "cpuTime": 0.0, 
+        "wallTime": 0.01
+      }, 
+      "trfPredata": null, 
+      "wallTime": 111.44
+    }
+  }
+}

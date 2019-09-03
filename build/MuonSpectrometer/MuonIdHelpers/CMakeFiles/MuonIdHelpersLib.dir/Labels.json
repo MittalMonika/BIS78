@@ -1,0 +1,76 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/CscIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MdtIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MmIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MuonIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MuonIdHelperTool.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MuonIdHelpersDict.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MuonStationIndex.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/MuonStationIndexHelpers.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/RpcIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/TgcIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers/sTgcIdHelper.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/Root/MuonStationIndex.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/CscIdHelper.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/MdtIdHelper.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/MmIdHelper.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/MuonIdHelper.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/MuonIdHelperTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/MuonStationIndexHelpers.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/RpcIdHelper.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/TgcIdHelper.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/sTgcIdHelper.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonIdHelpers"
+		],
+		"name" : "MuonIdHelpersLib"
+	}
+}

@@ -1,0 +1,1 @@
+../../../../athena/MuonSpectrometer/MuonG4/MuonG4SD/python/MuonG4SDConfig.py

@@ -1,0 +1,6 @@
+# Target labels
+ MuonSimEvent
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonSimEvent/CMakeFiles/MuonSimEventDictDictGen
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonSimEvent/CMakeFiles/MuonSimEventDictDictGen.rule
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonSimEvent/CMakeFiles/MuonSimEventDict.dsomap.rule

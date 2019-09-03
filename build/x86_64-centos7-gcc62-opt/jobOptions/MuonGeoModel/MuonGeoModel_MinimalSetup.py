@@ -1,0 +1,1 @@
+../../../../athena/MuonSpectrometer/MuonGeoModel/share/MuonGeoModel_MinimalSetup.py

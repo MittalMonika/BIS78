@@ -1,0 +1,26 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonSimEvent/CMakeFiles/MuonSimEventDictReflexDict.cxx",
+			"labels" : 
+			[
+				"MuonSimEvent"
+			]
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/MuonSimEvent/MuonSimEventDict.h"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/MuonSimEvent/selection.xml"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonSimEvent"
+		],
+		"name" : "MuonSimEventDict"
+	}
+}

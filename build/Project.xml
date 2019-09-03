@@ -1,0 +1,139 @@
+<!-- Auto-generated file, please do not edit -->
+<Project name="WorkDir" >
+   <SubProject name="IdDict" >
+   </SubProject>
+   <SubProject name="XMLCoreParser" >
+   </SubProject>
+   <SubProject name="Identifier" >
+   </SubProject>
+   <SubProject name="IdDictParser" >
+      <Dependency name="IdDict" />
+      <Dependency name="XMLCoreParser" />
+      <Dependency name="Identifier" />
+   </SubProject>
+   <SubProject name="AthenaBaseComps" >
+   </SubProject>
+   <SubProject name="AthenaKernel" >
+   </SubProject>
+   <SubProject name="GeoModelKernel" >
+   </SubProject>
+   <SubProject name="GeoPrimitives" >
+   </SubProject>
+   <SubProject name="GaudiKernel" >
+   </SubProject>
+   <SubProject name="MuonAlignmentData" >
+   </SubProject>
+   <SubProject name="CLIDSvc" >
+   </SubProject>
+   <SubProject name="SGTools" >
+   </SubProject>
+   <SubProject name="AtlasDetDescr" >
+   </SubProject>
+   <SubProject name="MuonIdHelpers" >
+      <Dependency name="AthenaBaseComps" />
+      <Dependency name="CLIDSvc" />
+      <Dependency name="SGTools" />
+      <Dependency name="AtlasDetDescr" />
+      <Dependency name="IdDict" />
+      <Dependency name="Identifier" />
+      <Dependency name="IdDictParser" />
+      <Dependency name="GaudiKernel" />
+   </SubProject>
+   <SubProject name="TrkDetElementBase" >
+   </SubProject>
+   <SubProject name="TrkDistortedSurfaces" >
+   </SubProject>
+   <SubProject name="TrkSurfaces" >
+   </SubProject>
+   <SubProject name="StoreGate" >
+   </SubProject>
+   <SubProject name="AGDDModel" >
+   </SubProject>
+   <SubProject name="MuonAGDDDescription" >
+   </SubProject>
+   <SubProject name="MuonReadoutGeometry" >
+      <Dependency name="AthenaBaseComps" />
+      <Dependency name="AthenaKernel" />
+      <Dependency name="GeoModelKernel" />
+      <Dependency name="GeoPrimitives" />
+      <Dependency name="Identifier" />
+      <Dependency name="GaudiKernel" />
+      <Dependency name="MuonAlignmentData" />
+      <Dependency name="MuonIdHelpers" />
+      <Dependency name="TrkDetElementBase" />
+      <Dependency name="TrkDistortedSurfaces" />
+      <Dependency name="TrkSurfaces" />
+      <Dependency name="StoreGate" />
+      <Dependency name="AGDDModel" />
+      <Dependency name="MuonAGDDDescription" />
+   </SubProject>
+   <SubProject name="CxxUtils" >
+   </SubProject>
+   <SubProject name="AtlasSealCLHEP" >
+   </SubProject>
+   <SubProject name="GeneratorObjects" >
+   </SubProject>
+   <SubProject name="HitManagement" >
+   </SubProject>
+   <SubProject name="MuonSimEvent" >
+      <Dependency name="CLIDSvc" />
+      <Dependency name="SGTools" />
+      <Dependency name="AtlasSealCLHEP" />
+      <Dependency name="GeoPrimitives" />
+      <Dependency name="Identifier" />
+      <Dependency name="GeneratorObjects" />
+      <Dependency name="MuonIdHelpers" />
+      <Dependency name="HitManagement" />
+   </SubProject>
+   <SubProject name="G4AtlasTools" >
+   </SubProject>
+   <SubProject name="MCTruth" >
+   </SubProject>
+   <SubProject name="MuonG4SD" >
+      <Dependency name="CxxUtils" />
+      <Dependency name="StoreGate" />
+      <Dependency name="GeoPrimitives" />
+      <Dependency name="GaudiKernel" />
+      <Dependency name="MuonSimEvent" />
+      <Dependency name="G4AtlasTools" />
+      <Dependency name="MCTruth" />
+   </SubProject>
+   <SubProject name="GeoModelInterfaces" >
+   </SubProject>
+   <SubProject name="GeoModelUtilities" >
+   </SubProject>
+   <SubProject name="MuonCondInterface" >
+   </SubProject>
+   <SubProject name="MuonGMdbObjects" >
+   </SubProject>
+   <SubProject name="AthenaPoolUtilities" >
+   </SubProject>
+   <SubProject name="RDBAccessSvc" >
+   </SubProject>
+   <SubProject name="AGDDKernel" >
+   </SubProject>
+   <SubProject name="IdDictDetDescr" >
+   </SubProject>
+   <SubProject name="MuonDetDescrUtils" >
+   </SubProject>
+   <SubProject name="MuonGeoModel" >
+      <Dependency name="AthenaKernel" />
+      <Dependency name="StoreGate" />
+      <Dependency name="GeoModelInterfaces" />
+      <Dependency name="GeoModelKernel" />
+      <Dependency name="GeoModelUtilities" />
+      <Dependency name="GaudiKernel" />
+      <Dependency name="MuonCondInterface" />
+      <Dependency name="MuonReadoutGeometry" />
+      <Dependency name="MuonGMdbObjects" />
+      <Dependency name="CLIDSvc" />
+      <Dependency name="SGTools" />
+      <Dependency name="AthenaPoolUtilities" />
+      <Dependency name="RDBAccessSvc" />
+      <Dependency name="AGDDKernel" />
+      <Dependency name="IdDictDetDescr" />
+      <Dependency name="MuonAGDDDescription" />
+      <Dependency name="MuonDetDescrUtils" />
+      <Dependency name="MuonIdHelpers" />
+   </SubProject>
+</Project>

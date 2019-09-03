@@ -1,0 +1,16 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/DetectorDescription/IdDictParser/test/test_indet_id.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"IdDictParser"
+		],
+		"name" : "test_det_id"
+	}
+}

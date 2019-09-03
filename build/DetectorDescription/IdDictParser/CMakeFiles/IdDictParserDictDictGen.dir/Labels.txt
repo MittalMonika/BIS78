@@ -1,0 +1,6 @@
+# Target labels
+ IdDictParser
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/DetectorDescription/IdDictParser/CMakeFiles/IdDictParserDictDictGen
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/DetectorDescription/IdDictParser/CMakeFiles/IdDictParserDictDictGen.rule
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/DetectorDescription/IdDictParser/CMakeFiles/IdDictParserDict.dsomap.rule

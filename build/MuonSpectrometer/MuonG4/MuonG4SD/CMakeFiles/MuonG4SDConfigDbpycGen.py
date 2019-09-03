@@ -1,0 +1,1 @@
+import py_compile; py_compile.compile( '/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/python/MuonG4SDConfigDb.py', cfile = '/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfigDb.pyc', doraise = True )

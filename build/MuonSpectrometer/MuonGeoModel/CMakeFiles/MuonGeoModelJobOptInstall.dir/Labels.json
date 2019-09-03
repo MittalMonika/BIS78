@@ -1,0 +1,31 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/jobOptions/MuonGeoModel/MuonGeoModelSimulation_jobOptions.py"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/jobOptions/MuonGeoModel/MuonGeoModel_MinimalSetup.py"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonGeoModel/share/MuonGeoModelSimulation_jobOptions.py"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonGeoModel/share/MuonGeoModel_MinimalSetup.py"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/jobOptions/MuonGeoModel/MuonGeoModelSimulation_jobOptions.py.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/jobOptions/MuonGeoModel/MuonGeoModel_MinimalSetup.py.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonGeoModel"
+		],
+		"name" : "MuonGeoModelJobOptInstall"
+	}
+}

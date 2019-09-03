@@ -1,0 +1,5 @@
+#!/bin/sh
+set -e
+echo "WARNING Please stop using test_det_id.exe, and use test_det_id instead"
+echo ""
+exec test_det_id "$@"

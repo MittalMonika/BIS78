@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/components/MuonIdHelpers_entries.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/components/MuonIdHelpers_load.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonIdHelpers"
+		],
+		"name" : "MuonIdHelpers"
+	}
+}

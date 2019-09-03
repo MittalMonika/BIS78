@@ -1,0 +1,5 @@
+# Target labels
+ IdDictParser
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/DetectorDescription/IdDictParser/CMakeFiles/tidExeAttribSet
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/DetectorDescription/IdDictParser/CMakeFiles/tidExeAttribSet.rule

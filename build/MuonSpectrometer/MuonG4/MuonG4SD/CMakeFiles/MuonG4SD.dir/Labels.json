@@ -1,0 +1,85 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/CSCSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/CSCSensitiveDetectorCosmics.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/CSCSensitiveDetectorCosmicsTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/CSCSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/GenericMuonSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/GenericMuonSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/MDTSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/MDTSensitiveDetectorCosmics.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/MDTSensitiveDetectorCosmicsTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/MDTSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/MicromegasSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/MicromegasSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/RPCSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/RPCSensitiveDetectorCosmics.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/RPCSensitiveDetectorCosmicsTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/RPCSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/TGCSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/TGCSensitiveDetectorCosmics.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/TGCSensitiveDetectorCosmicsTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/TGCSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/sTGCSensitiveDetector.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/sTGCSensitiveDetectorTool.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/components/MuonG4SD_entries.cxx"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonG4/MuonG4SD/src/components/MuonG4SD_load.cxx"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonG4SD"
+		],
+		"name" : "MuonG4SD"
+	}
+}

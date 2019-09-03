@@ -1,0 +1,4 @@
+[ libIdDictParserDict.so ]
+# List of selected classes
+class IdDictParser
+header IdDictParser.h

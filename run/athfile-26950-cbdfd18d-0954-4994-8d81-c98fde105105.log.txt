@@ -1,0 +1,28 @@
+Extracting in-file metadata without athena sub-process from file OUT.HITS.pool.root
+================================================================================
+{'run_type': ['N/A'], 'file_guid': '41172192-500A-CF43-A9D6-93FE09A00CD6'}
+mc_event_weights.size: 1
+mc_event_weights value 1.0
+user_type McEvent
+processing container [/GLOBAL/BField/Maps]
+==names== (sz: 0)
+==iovs== (sz: 3)
+==attrs== (sz: 3)
+processing container [/Simulation/Parameters]
+==names== (sz: 0)
+==iovs== (sz: 1)
+==attrs== (sz: 1)
+processing container [/TagInfo]
+==names== (sz: 0)
+==iovs== (sz: 0)
+==attrs== (sz: 1)
+:::::: summary ::::::
+ - nbr events:  1000
+ - run numbers: [284500L]
+ - lumiblocks: [1L]
+ - evt types:  ('IS_SIMULATION', 'IS_ATLAS', 'IS_PHYSICS')
+ - item list: 24
+ - processing tags: ['StreamHITS']
+ - geometry: ATLAS-R2-2016-01-00-01
+ - conditions tag: OFLCOND-MC16-SDR-20
+ - tag-info: ['GeoAtlas', 'AtlasRelease', 'GeoMuon', '/LAR/Identifier/FebRodMap', '/LAR/Identifier/CalibIdMap', 'IOVDbGlobalTag', '/LAR/Identifier/OnOffIdMap']

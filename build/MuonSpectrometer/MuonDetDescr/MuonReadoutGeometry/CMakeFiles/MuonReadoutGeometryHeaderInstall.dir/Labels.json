@@ -1,0 +1,19 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/include/MuonReadoutGeometry"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/include/MuonReadoutGeometry.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonReadoutGeometry"
+		],
+		"name" : "MuonReadoutGeometryHeaderInstall"
+	}
+}

@@ -1,0 +1,68 @@
+[ libIdDictParserDict.so ]
+# List of selected classes
+class IdDictParser
+header IdDictParser.h
+[ libMuonIdHelpersDict.so ]
+# List of selected classes
+class CscIdHelper
+class MdtIdHelper
+class MmIdHelper
+class MuonIdHelper
+class RpcIdHelper
+class TgcIdHelper
+class sTgcIdHelper
+header CscIdHelper.h
+header MdtIdHelper.h
+header MmIdHelper.h
+header MuonIdHelper.h
+header RpcIdHelper.h
+header TgcIdHelper.h
+header sTgcIdHelper.h
+{ decls }
+namespace std {  }
+class CSCSimHit;
+class MDTSimHit;
+class RPCSimHit;
+class TGCSimHit;
+class GenericMuonSimHit;
+class sTGCSimHit;
+template <typename T> class AtlasHitsVector;
+
+[ libMuonSimEventDict.so ]
+# List of selected classes
+class AthenaHitsVector<CSCSimHit>
+class AthenaHitsVector<GenericMuonSimHit>
+class AthenaHitsVector<MDTSimHit>
+class AthenaHitsVector<RPCSimHit>
+class AthenaHitsVector<TGCSimHit>
+class AthenaHitsVector<sTGCSimHit>
+class AtlasHitsVector<CSCSimHit>
+class AtlasHitsVector<GenericMuonSimHit>
+class AtlasHitsVector<MDTSimHit>
+class AtlasHitsVector<RPCSimHit>
+class AtlasHitsVector<TGCSimHit>
+class AtlasHitsVector<sTGCSimHit>
+class CSCSimHit
+class GenericMuonSimHit
+class MDTSimHit
+class RPCSimHit
+class TGCSimHit
+class sTGCSimHit
+class vector<CSCSimHit*>
+class vector<CSCSimHit>
+class vector<GenericMuonSimHit*>
+class vector<GenericMuonSimHit>
+class vector<MDTSimHit*>
+class vector<MDTSimHit>
+class vector<RPCSimHit*>
+class vector<RPCSimHit>
+class vector<TGCSimHit*>
+class vector<TGCSimHit>
+class vector<sTGCSimHit*>
+class vector<sTGCSimHit>
+header CSCSimHit.h
+header GenericMuonSimHit.h
+header MDTSimHit.h
+header RPCSimHit.h
+header TGCSimHit.h
+header sTGCSimHit.h

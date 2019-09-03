@@ -1,0 +1,3 @@
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonG4/MuonG4SD/MuonG4SD_clid.db
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonGeoModel/MuonGeoModel_clid.db
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/MuonSpectrometer/MuonIdHelpers/MuonIdHelpers_clid.db

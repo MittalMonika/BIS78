@@ -1,0 +1,7 @@
+# Regular package(s) built in WorkDir - 21.3.5
+DetectorDescription/IdDictParser <unknown>
+MuonSpectrometer/MuonDetDescr/MuonReadoutGeometry <unknown>
+MuonSpectrometer/MuonG4/MuonG4SD <unknown>
+MuonSpectrometer/MuonGeoModel <unknown>
+MuonSpectrometer/MuonIdHelpers <unknown>
+MuonSpectrometer/MuonSimEvent <unknown>

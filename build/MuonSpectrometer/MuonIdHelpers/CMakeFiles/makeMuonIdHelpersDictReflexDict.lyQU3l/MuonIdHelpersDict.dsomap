@@ -1,0 +1,16 @@
+[ libMuonIdHelpersDict.so ]
+# List of selected classes
+class CscIdHelper
+class MdtIdHelper
+class MmIdHelper
+class MuonIdHelper
+class RpcIdHelper
+class TgcIdHelper
+class sTgcIdHelper
+header CscIdHelper.h
+header MdtIdHelper.h
+header MmIdHelper.h
+header MuonIdHelper.h
+header RpcIdHelper.h
+header TgcIdHelper.h
+header sTgcIdHelper.h

@@ -1,0 +1,25 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfig.pyc"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfigDb.pyc"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfig.pyc.rule"
+		},
+		{
+			"file" : "/afs/cern.ch/work/m/mmittal/private/BIS_monika/build/x86_64-centos7-gcc62-opt/python/MuonG4SD/MuonG4SDConfigDb.pyc.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"MuonG4SD"
+		],
+		"name" : "MuonG4SDPythonBytecodeInstall"
+	}
+}

@@ -1,0 +1,8 @@
+[release_metadata]
+release:21.3.5
+nightly name:21.3
+project name:WorkDir
+nightly release:02bc81b
+date:2019-08-29T1548
+compiler:GNU-6.2.0
+cxxpath:/cvmfs/sft.cern.ch/lcg/releases/gcc/6.2.0-2bc78/x86_64-slc6-gcc62-opt/bin/g++

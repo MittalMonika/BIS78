@@ -1,0 +1,16 @@
+# Target labels
+ MuonSimEvent
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/CSCSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/CscHitIdHelper.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/GenericMuonSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/MDTSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/MMSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/MdtHitIdHelper.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/MicromegasHitIdHelper.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/RPCSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/RpcHitIdHelper.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/TGCSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/TgcHitIdHelper.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/sTGCSimHit.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonSimEvent/src/sTgcHitIdHelper.cxx

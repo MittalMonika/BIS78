@@ -1,0 +1,5 @@
+# Target labels
+ MuonIdHelpers
+# Source files and their labels
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/components/MuonIdHelpers_entries.cxx
+/afs/cern.ch/work/m/mmittal/private/BIS_monika/athena/MuonSpectrometer/MuonIdHelpers/src/components/MuonIdHelpers_load.cxx
